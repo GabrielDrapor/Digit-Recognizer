@@ -1,2 +1,2 @@
 # Digit-Recognizer
-A Getting Started Competition on kaggle
+https://www.kaggle.com/c/digit-recognizer/
